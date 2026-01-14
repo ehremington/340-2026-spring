@@ -1,0 +1,9 @@
+*.djvu
+*.autosave.xopp
+*~
+exams/
+*.ipynb_checkpoints/
+340-2020-fall/
+340-2024-spring/
+books/
+.virtual_documents/
