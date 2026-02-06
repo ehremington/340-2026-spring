@@ -1,0 +1,129 @@
+\usepackage{fancyhdr}
+%\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+%\usepackage[top=1in, bottom=1in, left=0.75in, right=0.75in]{geometry}
+\usepackage[
+	top=1in,
+	bottom=1in,
+	left=0.75in,
+	right=3in
+	]{geometry}
+
+\setlength{\headwidth}{\paperwidth}
+\addtolength{\headwidth}{-1.5in}
+
+\usepackage{graphicx}
+\usepackage{siunitx}
+% \newcommand{\celsius}{\si{\celsius}}
+% \newcommand{\kelvin}{\si{\kelvin}}
+\DeclareSIUnit\fahrenheit{\unit{\degree}F}
+\newcommand{\sub}[1]{\textsubscript{#1}}
+\newcommand{\super}[1]{\textsuperscript{#1}}
+\usepackage{enumitem}
+
+
+%% make the *default* enumerate hang its label into the left margin
+%\setlist[enumerate,1]{
+%	label=\arabic*.,
+%	labelsep=0.0em,
+%	leftmargin=0pt,
+%	itemindent=0pt,
+%	labelindent=1em, % push number into left margin; tweak this
+%	align=left
+%}
+
+\setlist[enumerate,1]{
+	label=\arabic*.,
+	align=right,
+	labelsep=0.5em,
+	labelwidth=0pt,
+	leftmargin=0pt,
+	itemindent=0pt,
+	labelindent=-2.4em,
+	itemindent=0pt
+}
+
+
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+% \usepackage[type=none]{fgruler}
+
+
+
+% use xelatex to use different font
+%\usepackage{fontspec}
+\usepackage{mathspec}
+\setmainfont{Fira Sans}[Numbers=Tabular]
+\setmathrm{Fira Sans}
+\setmathsf{Fira Sans}
+\setmathfont(Digits,Latin,Greek){Fira Sans}
+
+
+%input pgf images to use pgf image format from matplotlib 
+%\usepackage{pgf}
+%\usepackage{unicode-math}
+%\setmainfont{Fira Sans Light}
+%\setmathfont{Fira Sans Light}
+%\setmathfont[range=\mathit]{Fira Sans Light Italic}
+
+
+\renewcommand{\bigskip}{\vspace{1in}}
+\newcommand{\hugeskip}{\vspace{2in}}
+\newcommand{\giantskip}{\vspace{3in}}
+\newcommand{\blank}{ \rule{1in}{0.1mm} }
+\sisetup{retain-explicit-plus}
+
+\newcommand{\university}{Samford University}
+\newcommand{\faculty}{Department of Physics}
+\newcommand{\class}{General Physics 2}
+\newcommand{\examnum}{Worksheet}
+\newcommand{\content}{Example Content}
+\newcommand{\examdate}{\today}
+\newcommand{\timelimit}{}
+\newcommand{\myline}{\vspace{.5cm}\hrule}
+\newcommand{\week}{}
+
+\pagestyle{fancy}
+\setlength\parindent{0in}
+\setlength\parskip{0.1in} 
+\setlength\headheight{15pt}
+
+\raggedbottom
+\widowpenalty=10000
+\clubpenalty=10000
+
+\linespread{1.1}
+
+\pretolerance=200
+\tolerance=1500
+\emergencystretch=2em
+\hyphenpenalty=800
+\exhyphenpenalty=800
+
+
+%%%%%%%%%%% HEADER / FOOTER %%%%%%%%%%%
+\rhead{\textsc{\university\ -- \week}}
+\chead{\textsc{}}
+\lhead{\textsc{\class}}
+\rfoot{\textsc{\thepage}}
+\cfoot{\textit{}}
+%\lfoot{\textsc{\university}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\pagestyle{headandfoot}
+%\firstpageheader{\textsc{\class}}{}{\textsc{\examdate}}
+%\firstpageheadrule
+%\firstpagefooter{}{}{}
+%\runningheader{\textsc{\class}}{\examnum}{\examdate}
+%\runningheadrule
+%\runningfooter{}{}{\thepage}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\baselineskip}
+
+\title{\class}
+\author{\examnum}
+\date{\examdate}
