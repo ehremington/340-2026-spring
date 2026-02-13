@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/ehreming/Dropbox/340-2026-spring/media/videos/340-2026-spring/720p30/partial_movie_files/OscillatingChargeVectorFieldTips/2016333726_127638358_1553977096.mp4'
