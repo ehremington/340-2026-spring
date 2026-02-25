@@ -1,5 +1,77 @@
 # Spring 2026 Daily Log
 
+## day 19 | 260225 W
+
+We will review some questions for the exam that is coming on Friday!
+
+## day 18 | 260223 M
+
+We will look at the index of refraction of a dense solid and talk about how this is different. We tried to get to this last time but didn't. So what is the index of refraction of a solid material. It depends on the frequency of the light that is coming into it, because it is made of tiny charges that respond in different ways to different frequencies of light.
+
+## day 17 | 260220 F
+
+We are continuing to look at the index of refraction. This time we are going to make things more realistic by look at the index of refraction of a thicker dielectric material. First we are going to talk through the **polarization of a material** and explain exactly what that means and the effect that may have of the index of refraction. 
+
+## day 16 | 260218 W
+
+We need to prepare for an exam. There is a homework review sheet posted. 
+
+In class we finished Feynman's derivation of the index of refraction in very thin materials. 
+
+## day 15 | 260216 M
+
+We are now taking a closer look at the oscillations of charges in a very thin dielectric. We started with a rough assumption about the electric field after it had passed through a thin material. We have an expression for this but need something to compare it to, so we began thinking about what a charge in this dielectric experiences. This brought us to solving some differential equations! 
+
+## day 14 | 260213 F
+
+We want to look at the origin of light and see how that affects when light enters a material. So, what is light?
+
+## day 13 | 260211 W
+
+We went through light from a beginner's perspective. I essentially gave the same lecture that I would for 102 or 204, but along the way we noticed some questions that were not well answered by this perspective. I'll list some of the questions that we came up with at the end.
+
+So light is a wave of the electromagnetic spectrum. Light has a wavelength and a period (or frequency) that we have discussed already. The wavelength is the repetition in space and the period is the repetition in time. Other parameters such as angular frequency or wave vector come from these factors, but the factors are not independent from each other. The speed of a wave, v, relates these two quantities in that 
+
+$$v=\frac{\lambda}{T}$$
+
+Just to finish this set of relationships out, the speed of light **in vacuum** is **c** and that value is given by two other important factors and that is the permittivity and permeability of free space, $\epsilon_0$ and $\mu_0$. 
+
+The speed of light through a material slows down. This slow down is given by the *index of refraction* of the material and this relationship looks like this:
+
+$$\frac{c}{v}=n$$
+
+Some common values for the index of refraction are vacuum, air, water, and glass. These values are experimentally derived. 
+
+One last consequence of this is that since the speed of light in matter is slower, a question that arises is, "Does the wavelength or the frequency get smaller or both?" The answer is the wavelength gets smaller, not the frequency. So the wavelength in a material would be related to the wavelength in vacuum like this:
+
+$$\lambda = \frac{\lambda_{\mathrm{vac}}{n}$$
+
+Snell's Law is another law that relates the angle of light as it goes from one material into another material. This light acts like a tank as it is crossing this boundary and changes direction slightly as a result of the speed being different in the two materials. Snell's Law looks like:
+
+$$n_i \sin(\theta_i) = n_t \sin(\theta_t)$$
+
+Law of reflection is that light bounces off at the same angle as it comes in so that 
+
+$$\theta_i = \theta_r$$
+
+Now throughout this lecture we were asking questions all along the way whenever this explanation felt like it was lacking. Some of the questions that we noted are these:
+1. What is light?
+2. Where does light come from?
+3. Can the speed of light change?
+4. What affects the brightness of light?
+5. How do humans perceive brightness and color
+6. Why does light slow down in a material
+7. What is reflection?
+
+These are all good questions and ones that we hope to answer in a satisfactory way over the course of the next few lectures.
+
+## day 12 | 260208 M
+
+
+
+## day 11 | 260206 F
+
+As a precursor to chapter 2, I wanted to work through a few issues in order to remind you of what we mean by several quantities that are used in the description of *harmonic waves*. These harmonic waves are given by a *sine* or *cosine* function with the wave-like *x-vt* portion plugged in. 
 
 ## day 10 | 260204 W
 
@@ -78,5 +150,5 @@ I recommend you download a copy of it and put it somewhere where you can access 
 
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 2518 bytes to README.md
+    [NbConvertApp] Writing 5093 bytes to README.md
 
