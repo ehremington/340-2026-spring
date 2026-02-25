@@ -44,7 +44,7 @@ Some common values for the index of refraction are vacuum, air, water, and glass
 
 One last consequence of this is that since the speed of light in matter is slower, a question that arises is, "Does the wavelength or the frequency get smaller or both?" The answer is the wavelength gets smaller, not the frequency. So the wavelength in a material would be related to the wavelength in vacuum like this:
 
-$$\lambda = \frac{\lambda_{\mathrm{vac}}{n}$$
+$$\lambda = \frac{\lambda_{\mathrm{vac}}}{n}$$
 
 Snell's Law is another law that relates the angle of light as it goes from one material into another material. This light acts like a tank as it is crossing this boundary and changes direction slightly as a result of the speed being different in the two materials. Snell's Law looks like:
 
@@ -150,5 +150,5 @@ I recommend you download a copy of it and put it somewhere where you can access 
 
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 5093 bytes to README.md
+    [NbConvertApp] Writing 9642 bytes to README.md
 
