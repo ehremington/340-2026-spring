@@ -1,5 +1,36 @@
 # Spring 2026 Daily Log
 
+## day 36 | 260320 F
+
+Today we took Fresnel Equations one step further by considering the power delivered from light going into another medium. We invoked the conservation of energy to formulate some new equations based on the Fresnel Equations that tell us about the *reflectance* and *transmittance*. These equations are very helpful in discussing what happens to the energy when it reaches a boundary. From here, we will get into some special topics, like Brewster's Angle, and next time the *critical angle* and *total internal reflection*. 
+
+## day 25 | 260318 W
+
+Today we cover the Fresnel Equations, which hold a special place in my heart. We will continue with the derivation we began last time but were in the middle of. Remember that derivation was based on the *boundary conditions* that are imposed when the light is at the surface of a material. If you are curious about what I mean by boundary conditions, there is an appendix at the end of chapter 3 that goes into more detail. Today we will derive 4 equations, but we will also see a more helpful form of these equations in the form of Fresnel's Equations. These coefficients helpfully summarize the amplitude that we expect to see when light reaches a boundary between two different materials.
+
+For homework assignment 3, do problems 3.1 and 3.3 a the end of chapter 3.
+
+## day 24 | 260316 M
+
+I hope you had a nice Spring Break! Today we will work through both reflection and refraction at a surface. Now that we have talked through refraction so much, it is time to move on to some other topics. We are not totally out of the woods but we are making progress. Today we will formally see where the Law of Reflection comes from as well as the Law of Refraction or Snell's Law.
+
+
+## day 23 | 260306 F
+
+We talked through Poynting's Theorem, which is really a statement of the conservation of energy. We also discussed the irradiance of a plane wave. *Irradiance* is the correct way to refer to what was called (and still is in some contexts) the *intensity* of light, that is how much power is emitted from a source per unit of area that light passes through. Irradiance is the time average of the Poynting vector and is proportional to the square of the electric field.
+
+## day 22 | 260304 W
+
+We talked through the pointing vector by talking about the energy stored in a capacitor and the energy stored in an inductor and putting those two models together into our formulation for a wave of light.
+
+## day 21 | 260302 M
+
+We talked through the index of refraction of a conductor.
+
+## day 20 | 260228 F
+
+We went over questions on the exam and began working on it.
+
 ## day 19 | 260225 W
 
 We will review some questions for the exam that is coming on Friday!
@@ -150,5 +181,5 @@ I recommend you download a copy of it and put it somewhere where you can access 
 
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 9642 bytes to README.md
+    [NbConvertApp] Writing 9643 bytes to README.md
 
