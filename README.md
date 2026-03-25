@@ -1,6 +1,6 @@
 # Spring 2026 Daily Log
 
-## day 36 | 260320 F
+## day 26 | 260320 F
 
 Today we took Fresnel Equations one step further by considering the power delivered from light going into another medium. We invoked the conservation of energy to formulate some new equations based on the Fresnel Equations that tell us about the *reflectance* and *transmittance*. These equations are very helpful in discussing what happens to the energy when it reaches a boundary. From here, we will get into some special topics, like Brewster's Angle, and next time the *critical angle* and *total internal reflection*. 
 
@@ -181,5 +181,5 @@ I recommend you download a copy of it and put it somewhere where you can access 
 
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 9643 bytes to README.md
+    [NbConvertApp] Writing 12271 bytes to README.md
 
