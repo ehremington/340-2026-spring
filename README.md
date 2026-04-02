@@ -1,5 +1,21 @@
 # Spring 2026 Daily Log
 
+## day 31 | 260401 W
+
+We began chapter 7 today by discussing more than one wave of light at a time. It may sound crazy, but what we have been discussing as light has really only been a very simplified model of an electromagnetic wave, that has infinite extent and infinite energy. This is not realistic! So we began today by discussing the beginning of real waves. And to do that we will be building up a real wave by using the plane waves that we have had. We discussed the differences between phase velocity (what we have been using as the velocity) and group velocity (that is the rate at which any information can travel). This will lead us into Fourier series and the Fourier transform in time.
+
+## day 30 | 260330 M
+
+We con
+
+## day 29 | 260327 F
+
+## day 28 | 260325 W
+
+## day 27 | 260323 M
+
+
+
 ## day 26 | 260320 F
 
 Today we took Fresnel Equations one step further by considering the power delivered from light going into another medium. We invoked the conservation of energy to formulate some new equations based on the Fresnel Equations that tell us about the *reflectance* and *transmittance*. These equations are very helpful in discussing what happens to the energy when it reaches a boundary. From here, we will get into some special topics, like Brewster's Angle, and next time the *critical angle* and *total internal reflection*. 
@@ -181,5 +197,5 @@ I recommend you download a copy of it and put it somewhere where you can access 
 
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 12271 bytes to README.md
+    [NbConvertApp] Writing 12272 bytes to README.md
 
