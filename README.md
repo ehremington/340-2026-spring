@@ -1,16 +1,42 @@
 # Spring 2026 Daily Log
 
+## day 38 | 260417 F
+
+## day 37 | 260415 W
+
+Today we finished our introduction to the Fourier transform and we practiced doing it with a simple example of a cosine wave that is turned on and then back off. By changing the amount of time that the pulse is turned on, we change the *bandwidth* or number of frequencies needed to make this happen. 
+
+In ou
+
+## day 36 | 260413 M
+
+We finished talking about the Fourier series and we began talking about how we expand this idea to encompass all frequencies. This is the Fourier Transform. By doing this we move from representing a periodic function to representing any non-periodic function. The cost is that we go from having a discreet set of coefficients to having a function of coefficients. 
+
+## day 35 | 260410 F
+
+
+
+## day 34 | 260408 W
+
+## day 33 | 260406 M
+
+## day 32 | 260403 F
+
 ## day 31 | 260401 W
 
 We began chapter 7 today by discussing more than one wave of light at a time. It may sound crazy, but what we have been discussing as light has really only been a very simplified model of an electromagnetic wave, that has infinite extent and infinite energy. This is not realistic! So we began today by discussing the beginning of real waves. And to do that we will be building up a real wave by using the plane waves that we have had. We discussed the differences between phase velocity (what we have been using as the velocity) and group velocity (that is the rate at which any information can travel). This will lead us into Fourier series and the Fourier transform in time.
 
 ## day 30 | 260330 M
 
-We con
+We continued to work on the homework in class and talk through issues in some of the problems.
 
 ## day 29 | 260327 F
 
+We began a very large homework assignment, and started talking through many of the problems during class.
+
 ## day 28 | 260325 W
+
+
 
 ## day 27 | 260323 M
 
@@ -197,5 +223,5 @@ I recommend you download a copy of it and put it somewhere where you can access 
 
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 12272 bytes to README.md
+    [NbConvertApp] Writing 13071 bytes to README.md
 
